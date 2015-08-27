@@ -1,0 +1,113 @@
+# Translation of OpenERP Server.
+# This file contains the translation of the following modules:
+# 	* base_location
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenERP Server 7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-27 16:08+0200\n"
+"PO-Revision-Date: 2015-08-27 16:11+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
+"Language: de\n"
+
+#. module: base_location
+#: model:ir.actions.act_window,name:base_location.action_zip_tree
+msgid "Cites/locations Management"
+msgstr "Städte/Orte-Verwaltung"
+
+#. module: base_location
+#: field:res.better.zip,city:0
+msgid "City"
+msgstr "Stadt"
+
+#. module: base_location
+#: view:res.better.zip:0 field:res.better.zip,name:0
+msgid "ZIP"
+msgstr "PLZ"
+
+#. module: base_location
+#: field:res.better.zip,state_id:0
+msgid "State"
+msgstr "Bundesland"
+
+#. module: base_location
+#: field:res.better.zip,country_id:0
+msgid "Country"
+msgstr "Land"
+
+#. module: base_location
+#: field:res.better.zip,priority:0
+msgid "Priority"
+msgstr "Priorität"
+
+#. module: base_location
+#: model:ir.model,name:base_location.model_res_company
+msgid "Companies"
+msgstr "Unternehmen"
+
+#. module: base_location
+#: field:res.better.zip,code:0
+msgid "City Code"
+msgstr "Stadtkürzel"
+
+#. module: base_location
+#: model:ir.model,name:base_location.model_res_better_zip
+msgid " City/locations completion object"
+msgstr "Stadt/Ort Vervollständigungsobjekt"
+
+#. module: base_location
+#: help:res.company,better_zip_id:0
+msgid "Use the city name or the zip code to search the location"
+msgstr "Verwenden Sie Stadtbezeichnung oder PLZ, um den Ort zu suchen"
+
+#. module: base_location
+#: field:res.partner,zip_id:0
+msgid "City/Location"
+msgstr "Stadt/Ort"
+
+#. module: base_location
+#: view:res.better.zip:0
+msgid "Search city"
+msgstr "Suche Stadt"
+
+#. module: base_location
+#: field:res.company,better_zip_id:0
+msgid "Location"
+msgstr "Ort"
+
+#. module: base_location
+#: model:ir.ui.menu,name:base_location.zip_base
+msgid "Cities/Locations Management"
+msgstr "Städte/Orte-Verwaltung"
+
+#. module: base_location
+#: model:ir.model,name:base_location.model_res_partner
+msgid "Partner"
+msgstr "Partner"
+
+#. module: base_location
+#: view:res.company:0 view:res.partner:0
+msgid "City completion"
+msgstr "Stadt-Vervollständigung"
+
+#. module: base_location
+#: field:res.country.state,better_zip_ids:0
+msgid "Cities"
+msgstr "Städte"
+
+#. module: base_location
+#: model:ir.model,name:base_location.model_res_country_state
+msgid "Country state"
+msgstr "Bundesland"
+
+#. module: base_location
+#: help:res.better.zip,code:0
+msgid "The official code for the city"
+msgstr "Offizielles Kürzel für diese Stadt"
