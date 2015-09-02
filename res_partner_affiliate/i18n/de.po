@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: ODOO 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-01 12:14+0000\n"
-"PO-Revision-Date: 2015-08-27 16:25+0200\n"
+"PO-Revision-Date: 2015-09-02 13:34+0200\n"
 "Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Tel.:"
 #. module: res_partner_affiliate
 #: view:res.partner:0 field:res.partner,affiliate_ids:0
 msgid "Affiliates"
-msgstr "Tochtergesellschaften"
+msgstr "Verbundenes Unternehmen"
 
 #. module: res_partner_affiliate
 #: view:res.partner:0
